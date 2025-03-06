@@ -1,16 +1,16 @@
 <div align="center">
   <img width="200" src='./black_text_constpulse_wide.png' >
   
-  ## 🛠️ We’ll fix it. Someday. Welcome to const _pulse !
+  ## We’ll fix it. Someday. Welcome to const _pulse !
 </div>
 
-### 💡 About Us
+### About Us
 
 At **const _pulse**, we write software that (mostly) works.  
 Our goal? Build apps that don’t crash too often and actually help people get things done.  
 From frontend struggles 😅 to backend firefighting 🔥, we turn caffeine into code.  
 
-### 🛠 We build with  
+### We build with  
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=007396)
@@ -19,7 +19,7 @@ From frontend struggles 😅 to backend firefighting 🔥, we turn caffeine into
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-### 🚀 Our Tech Stack  
+### Our Tech Stack  
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -27,6 +27,6 @@ From frontend struggles 😅 to backend firefighting 🔥, we turn caffeine into
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-#### 📩 Let's Connect  
+#### Let's Connect  
 Find us on **[LinkedIn](https://www.linkedin.com/in/constpulse/)**  
 Let's build something ~buggy~ awesome together! 🚀  
