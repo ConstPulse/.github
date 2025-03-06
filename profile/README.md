@@ -1,12 +1,14 @@
 <div align="center">
-  <img width="200" src='https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif' >
+  <img width="200" src='./black_text_constpulse_wide.png' >
   
-  # 🚀 Welcome to ConstPulse
+  ## 🛠️ We’ll fix it. Someday. Welcome to const _pulse !
 </div>
 
 ### 💡 About Us
 
-At **ConstPulse**, we craft cutting-edge software solutions ⚡. Our mission is to create intuitive, scalable, and efficient applications that empower businesses and users worldwide. From frontend magic ✨ to backend efficiency 🔥, we bring ideas to life with code.  
+At **const _pulse**, we write software that (mostly) works.  
+Our goal? Build apps that don’t crash too often and actually help people get things done.  
+From frontend struggles 😅 to backend firefighting 🔥, we turn caffeine into code.  
 
 ### 🛠 We build with  
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -27,4 +29,4 @@ At **ConstPulse**, we craft cutting-edge software solutions ⚡. Our mission is 
 
 #### 📩 Let's Connect  
 Find us on **[LinkedIn](https://www.linkedin.com/in/constpulse/)**  
-Let's build something awesome together! 🚀  
+Let's build something ~buggy~ awesome together! 🚀  
